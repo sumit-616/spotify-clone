@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Try Spotify 2.0 Clone Live](https://super-music-streaming.vercel.app/)
-
----
-
 ## 📦 GitHub Repository
 
 [https://github.com/sumit-616/spotify-clone](https://github.com/sumit-616/spotify-clone)
