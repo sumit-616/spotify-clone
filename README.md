@@ -12,7 +12,7 @@
 
 ## 📦 GitHub Repository
 
-[https://github.com/sumit-616/spotify-2.0-clone](https://github.com/sumit-616/spotify-2.0-clone)
+[https://github.com/sumit-616/spotify-clone](https://github.com/sumit-616/spotify-clone)
 
 ---
 
