@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Try Spotify 2.0 Clone Live](https://your-spotify-clone.vercel.app/)
+👉 [Try Spotify 2.0 Clone Live](https://super-music-streaming.vercel.app/)
 
 ---
 
